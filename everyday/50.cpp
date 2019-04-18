@@ -4,8 +4,6 @@
 
 using namespace std;
 
-#define MAX_N 1987654321
-
 void getDuplicatedNums(vector<int> nums)
 {
     sort(nums.begin(), nums.end());
